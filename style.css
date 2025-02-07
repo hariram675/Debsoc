@@ -187,11 +187,7 @@ body {
     gap: 10px;
     justify-content: center;
 }
-.social-icons a {
-    text-decoration: none;
-    color: white;
-    font-size: 24px;
-}
+
 .contact-info p
  {
     color: white;
